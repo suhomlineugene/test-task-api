@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WW7EBWYQVbUgM1xEG6zqCM53akDQuwKPyJpnBuvgA3LNUEnRbFNoifhDaLowybJ+zElH3iJCO54ygAEXEXBmKQ==",
+  "dgSpecHash": "I2XHMNI4mZRuzF4M7B1yTNVV5e45v3fHBFk37PQWc6qvBlCg9AYJUIsADqeR01Ta10Bn0Q3OOKbTfCLAB9QE1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nemes\\OneDrive\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj",
+  "projectFilePath": "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nemes\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\nemes\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
-    "C:\\Users\\nemes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\sukho\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\sukho\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\sukho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

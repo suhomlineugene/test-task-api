@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nemes\\OneDrive\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj": {}
+    "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nemes\\OneDrive\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj": {
+    "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nemes\\OneDrive\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj",
         "projectName": "testapp-api.Shared",
-        "projectPath": "C:\\Users\\nemes\\OneDrive\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj",
-        "packagesPath": "C:\\Users\\nemes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nemes\\OneDrive\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\obj\\",
+        "projectPath": "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\testapp-api.Shared.csproj",
+        "packagesPath": "C:\\Users\\sukho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nemes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sukho\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\nemes\\.dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\sukho\\.dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
