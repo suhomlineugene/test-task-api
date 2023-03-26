@@ -1,3 +1,4 @@
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\bin\Debug\net7.0\data_test.csv
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\bin\Debug\net7.0\testapp-api.Shared.deps.json
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\bin\Debug\net7.0\testapp-api.Shared.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\bin\Debug\net7.0\testapp-api.Shared.pdb
@@ -10,4 +11,3 @@ C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\obj
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\obj\Debug\net7.0\refint\testapp-api.Shared.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\obj\Debug\net7.0\testapp-api.Shared.pdb
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\obj\Debug\net7.0\ref\testapp-api.Shared.dll
-C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api.Shared\bin\Debug\net7.0\data_test.csv

@@ -159,7 +159,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sukho\\.nuget\\packages\\": {}
+    "C:\\Users\\sukho\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -170,6 +171,9 @@
       "packagesPath": "C:\\Users\\sukho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sukho\\Documents\\GitHub\\test-task-api\\testapp-api\\testapp-api.Shared\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\sukho\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -220,7 +224,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\sukho\\.dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,7 @@
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\appsettings.json
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\testapp-api.exe
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\data_test.csv
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\testapp-api.deps.json
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\testapp-api.runtimeconfig.json
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\testapp-api.dll
@@ -10,10 +11,21 @@ C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\CsvHelper.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Namotion.Reflection.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NJsonSchema.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NJsonSchema.Yaml.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NSwag.Annotations.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NSwag.AspNetCore.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NSwag.Core.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NSwag.Core.Yaml.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NSwag.Generation.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\NSwag.Generation.AspNetCore.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Scrutor.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\YamlDotNet.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\testapp-api.Shared.dll
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\testapp-api.Shared.pdb
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\obj\Debug\net7.0\testapp-api.csproj.AssemblyReference.cache
@@ -37,4 +49,3 @@ C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\obj\Debug\
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\obj\Debug\net7.0\testapp-api.pdb
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\obj\Debug\net7.0\testapp-api.genruntimeconfig.cache
 C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\obj\Debug\net7.0\ref\testapp-api.dll
-C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\bin\Debug\net7.0\data_test.csv
