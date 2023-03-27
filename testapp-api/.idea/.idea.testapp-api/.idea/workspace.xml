@@ -7,52 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1ebf0f-8c5d-4cee-a6a6-ca7372f2802e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.testapp-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.testapp-api/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/Debug/net7.0/testapp-api.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/testapp-api.Shared.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/testapp-api.Shared.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api.Shared/obj/testapp-api.Shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api.Shared/obj/testapp-api.Shared.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testapp-api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/bin/Debug/net7.0/testapp-api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/bin/Debug/net7.0/testapp-api.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/bin/Debug/net7.0/testapp-api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/bin/Debug/net7.0/testapp-api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/bin/Debug/net7.0/testapp-api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/bin/Debug/net7.0/testapp-api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/ref/testapp-api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/ref/testapp-api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/refint/testapp-api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/refint/testapp-api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/Debug/net7.0/testapp-api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/testapp-api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/testapp-api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/testapp-api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/testapp-api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/obj/testapp-api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/obj/testapp-api.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp-api/testapp-api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/testapp-api/testapp-api.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1e8feaadf5c3fa14d36ea2a638c432a2e1a47b7837d8b83d88303c5d9c15cf/AsyncValueTaskMethodBuilderT.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6a4abc33381932734b5fe8e665891a89f052eeee41e2debe188594bce29675c/ControllerActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/794bcfedceb3c6d957fbddf0e1c9a04afca77f9b5470c6859466cfba35e1ddb1/Task.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/85612b28a0b3e7589999dd45d166416ac125bd6b88224b8f565c0a2191bfcb0/ActionExecutedContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b1455a1b8a078d2fb2b94ca6b592e4fdf565fda99c679e809d992e9270/ValueTask.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c018a1a3af0722da2f22dede3badfa058bc532f9991c982db8493bbe5d34f4/ServiceCollection.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e74356f198b598e97eaeea83e8b7b1f2bfe27c0a39fedf86bb7dc44827fbda/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,7 +41,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.testapp-api: https">
+  <component name="RunManager" selected=".NET Launch Settings Profile.testapp-api: IIS Express">
     <configuration name="testapp-api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/testapp-api/testapp-api.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
@@ -142,6 +102,7 @@
       <workItem from="1679836367117" duration="116000" />
       <workItem from="1679836537920" duration="164000" />
       <workItem from="1679836832742" duration="2206000" />
+      <workItem from="1679935867277" duration="10000" />
     </task>
     <servers />
   </component>
@@ -159,14 +120,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/testapp-api/Controllers/TestFileController.cs</url>
           <line>21</line>
-          <properties documentPath="C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\Controllers\TestFileController.cs" initialLine="21" containingFunctionPresentation="method 'GetFileData'">
-            <startOffsets>
-              <option value="593" />
-            </startOffsets>
-            <endOffsets>
-              <option value="609" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="C:\Users\sukho\Documents\GitHub\test-task-api\testapp-api\testapp-api\Controllers\TestFileController.cs" initialLine="21" containingFunctionPresentation="method 'GetFileData'" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
